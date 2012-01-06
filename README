@@ -1,0 +1,9 @@
+A quick tool I whipped up for making icons, combines the alpha channel of one image with the
+color channel of another. Super useful for making icons with gradients.
+
+Issues:
+
+Only works with images of the same size
+Dies with improper input instead of starting over.
+
+Like I said, a *quick* tool.
